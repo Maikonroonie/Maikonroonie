@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Maikonroonie/Maikonroonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi there, I'm Mikołaj! 👋</h1>
+  
+<h3>3rd Semester CS Student at AGH | Software Developer & ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://www.linkedin.com/in/mikołaj-gaweł-a74409346" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mikolaj.gawel@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://leetcode.com/u/Maikonroonie" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I am a 3rd-semester Computer Science student at **AGH University**, passionate about Software Engineering and currently exploring the world of **Machine Learning**. Beyond code, I am a sports enthusiast – you can usually find me on the football pitch or working on my own programming projects.
+
+- 🔭 I’m currently working on **Software Engineering projects**
+- 🌱 I’m currently learning **Machine Learning & Algorithms**
+- ⚽ Hobbies: **Football, Sports, Programming**
+- ⚡ Fun fact: **I believe writing clean code is just like a well-executed tactic in football.**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,cpp,js,ts,react,nodejs,npm,postgres,firebase,pytorch,git,github,vscode,linux" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maikonroonie&show_icons=true&theme=dracula&hide_border=true&locale=en" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maikonroonie&layout=compact&theme=dracula&hide_border=true&locale=en" height="180" alt="languages" />
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Maikonroonie&label=Profile%20Views&color=bd93f9&style=flat-square" alt="watchers" />
+</div>
