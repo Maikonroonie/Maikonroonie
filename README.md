@@ -41,18 +41,7 @@ I am a 3rd-semester Computer Science student at **AGH University**, passionate a
 ### 📈 GitHub Stats
 
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats-rjhw.vercel.app/api?username=Maikonroonie&show_icons=true&theme=dracula&hide_border=true" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
-
-  <img 
-    src="https://github-readme-stats-rjhw.vercel.app/api/top-langs/?username=Maikonroonie&layout=compact&theme=dracula&hide_border=true" 
-    height="180" 
-    alt="Top Languages" 
-  />
+#
 
   <br/>
 
