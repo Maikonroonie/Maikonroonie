@@ -41,7 +41,6 @@ I am a 3rd-semester Computer Science student at **AGH University**, passionate a
 ### 📈 GitHub Stats
 
 <div align="center">
-#
 
   <br/>
 
