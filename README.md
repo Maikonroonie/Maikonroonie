@@ -42,23 +42,20 @@ I am a 3rd-semester Computer Science student at **AGH University**, passionate a
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img 
-    src="https://gh-stats-4wid.vercel.app/api?username=Maikonroonie&show_icons=true&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats-rjhw.vercel.app/api?username=Maikonroonie&show_icons=true&theme=dracula&hide_border=true" 
     height="180" 
     alt="GitHub Stats" 
   />
 
-  <!-- Top Languages -->
   <img 
-    src="https://gh-stats-4wid.vercel.app/api/top-langs/?username=Maikonroonie&layout=compact&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats-rjhw.vercel.app/api/top-langs/?username=Maikonroonie&layout=compact&theme=dracula&hide_border=true" 
     height="180" 
     alt="Top Languages" 
   />
 
   <br/>
 
-  <!-- Profile Views -->
   <img 
     src="https://komarev.com/ghpvc/?username=Maikonroonie&label=Profile%20Views&color=bd93f9&style=flat-square" 
     alt="Profile Views" 
