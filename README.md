@@ -33,7 +33,7 @@ I am a 3rd-semester Computer Science student at **AGH University**, passionate a
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,cpp,js,ts,react,nodejs,npm,postgres,firebase,pytorch,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,cpp,js,ts,react,nodejs,postgres,firebase,pytorch,git,github,vscode,linux" />
 </div>
 
 ---
