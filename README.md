@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-semester Computer Science student at **AGH University**, passionate about Software Engineering and currently exploring the world of **Machine Learning**. Beyond code, I am a sports enthusiast – you can usually find me on the football pitch or working on my own programming projects.
+I am a 4th-semester Computer Science student at **AGH University**, passionate about Software Engineering and currently exploring the world of **Machine Learning**. Beyond code, I am a sports enthusiast – you can usually find me on the football pitch or working on my own programming projects.
 
 - 🔭 I’m currently working on **Software Engineering projects**
 - 🌱 I’m currently learning **Machine Learning & Algorithms**
