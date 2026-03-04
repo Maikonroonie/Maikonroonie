@@ -2,7 +2,7 @@
 
   <h1>Hi there, I'm Mikołaj! 👋</h1>
   
-<h3>4rd Semester CS Student at AGH | Software Developer & ML Enthusiast</h3>
+<h3>4th Semester CS Student at AGH | Software Developer & ML Enthusiast</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/mikołaj-gaweł-a74409346" target="_blank">
