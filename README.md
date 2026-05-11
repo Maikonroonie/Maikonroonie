@@ -30,7 +30,8 @@ I am a 4th-semester Computer Science student at **AGH University**, passionate a
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ technologies I worked with
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,react,nodejs,postgres,firebase,pytorch,git,github,vscode,linux" />
