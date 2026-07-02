@@ -21,20 +21,18 @@
 
 ### 👨‍💻 About Me
 
-I am a 4th-semester Computer Science student at **AGH University**, passionate about Software Engineering and currently exploring the world of **Machine Learning**. Beyond code, I am a sports enthusiast – you can usually find me on the football pitch or working on my own programming projects.
+I am a Computer Science student at **AGH University** (algorithmic track), passionate about **Software Engineering, System Architecture, and scalable solutions**. I enjoy solving complex algorithmic problems and bridging the gap between applied Machine Learning and solid backend infrastructure. 
 
-- 🔭 I’m currently working on **Software Engineering projects**
-- 🌱 I’m currently learning **Machine Learning & Algorithms**
-- ⚽ Hobbies: **Football, Sports, Programming**
-- ⚡ Fun fact: **I believe writing clean code is just like a well-executed tactic in football.**
+- 🔭 I’m currently working on **backend development and applied Machine Learning**
+- 🌱 I’m currently learning **System Design & Distributed Systems**
+- ⚡ Fun fact: **I like looking under the hood – whether it's understanding database engines, analyzing market charts, or tinkering with my car.**
 
----
 
 ### 🛠️ technologies I worked with
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,ts,react,nodejs,postgres,firebase,pytorch,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,java,js,ts,react,nodejs,express,fastapi,postgres,firebase,pytorch,aws,docker,linux,git,github,vscode" />
 </div>
 
 ---
